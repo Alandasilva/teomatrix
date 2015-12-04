@@ -1,0 +1,10 @@
+Package: teomatrix
+Title: Operções matriciais com a aplicações em Estatística
+Version: 0.0.0.1
+Authors@R: person("Alan", "da Silva", email = "first.last@example.com", role = c("aut", "cre"))
+Description: Realiza operções com matrizes
+Depends:
+    R (>= 3.1.2)
+License: GNU GPL v2
+LazyData: true
+RoxygenNote: 5.0.0.9000
